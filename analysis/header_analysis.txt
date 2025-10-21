@@ -1,0 +1,29 @@
+Header Analysis
+
+From: no-reply@access-accsecurity.com → Fake domain mimicking Microsoft.
+
+Reply-To: solutionteamrecognizd03@gmail.com → Attacker’s personal email.
+
+Return-Path: bounce@inlkrqa.co.uk → Different domain, not related to Microsoft.
+
+SPF: none (no valid record found).
+
+DKIM: none (no digital signature present).
+
+DMARC: permerror (authentication policy failed).
+
+Received Chain: shows mail relayed from IP 89.144.9.88, located in Europe, not owned by Microsoft.
+
+X-Sender-IP: 89.144.9.88 → Unrecognized sending server.
+
+Interpretation
+
+This header clearly shows domain spoofing. The sender is pretending to be Microsoft but using unrelated servers and domains. None of the authentication checks pass (SPF/DKIM/DMARC), confirming the sender is unauthorized.
+
+Additional Observations
+
+The Reply-To Gmail address is a major red flag — corporations never use free mail providers for support.
+
+The IP address used is linked to known spam or phishing activities, as verified through WHOIS and online blacklists.
+
+Conclusion: The email is fraudulent and crafted to steal login credentials.
