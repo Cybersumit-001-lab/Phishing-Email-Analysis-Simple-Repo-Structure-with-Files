@@ -1,0 +1,7 @@
+Sender IP: 89.144.9.88
+Origin: Europe (likely hosted in the Netherlands).
+Hosting Provider: M247 Europe SRL — a provider commonly used by attackers to send spam or host fake sites.
+Reverse DNS: mail.access-accsecurity.com (not a Microsoft domain).
+Domain Registration: access-accsecurity.com → recently registered, no public ownership data, likely fake.
+
+Conclusion: IP and domain evidence strongly suggest this email originated from a phishing operation server.
