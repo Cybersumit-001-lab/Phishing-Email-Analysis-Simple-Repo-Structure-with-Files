@@ -1,0 +1,11 @@
+Phishing Indicators Summary
+
+
+1	Spoofed sender domain           	“access-accsecurity.com” pretending to be Microsoft
+2	Reply-To Gmail address	          Leads directly to attacker’s mailbox
+3	SPF/DKIM/DMARC failed	            Authentication not verified
+4	Mismatched URL                  	Link points to fake login domain
+5	Urgent or fear tone              	Forces quick user action
+6	Tracking pixel	                  Confirms when victim opens email
+7	Grammar/style inconsistencies	    Not professional or standard Microsoft wording
+8	Suspicious IP	                    Hosted on non-Microsoft infrastructure
