@@ -72,7 +72,7 @@ Improve your cybersecurity awareness and reporting skills.
 👨‍💻 Author
 
 Sumit Kumar Ram
-BCA, 2nd Year — ABS Academy of Science, Technology, and Management, Durgapur
+BCA, 3rd Year — ABS Academy of Science, Technology, and Management, Durgapur
 Interested in Cybersecurity and Ethical Hacking
 
 
